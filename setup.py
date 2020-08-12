@@ -9,5 +9,5 @@ setup(
     url="https://github.com/kirigaikabuto/PythonLibMyExample",
     license="MIT",
     packages=["library1"],
-    install_requires=[]
+    install_requires=[],
 )
